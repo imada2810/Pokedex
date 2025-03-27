@@ -2,8 +2,8 @@
   "name": "aula3",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://imada2810.github.io/Pokedex/",
   
-
 
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
